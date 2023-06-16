@@ -88,7 +88,7 @@ main article {
  
     background-color: var(--article-color);
     align-items: center;
-
+    margin: 20px;
     display: flex;
     flex-direction: column;
     opacity: 0;
@@ -244,6 +244,7 @@ button{
     main article {
 
         width: 100%;
+        margin: 0px;
     }
 
 }
