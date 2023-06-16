@@ -46,6 +46,7 @@ header {
 header h1 {
 
     position: absolute;
+    color: var(--article-button-color);
     
 }
 
